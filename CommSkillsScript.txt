@@ -22,3 +22,6 @@ Checkout - it is a complex command which consists of two parts, switch and resto
  
 Clone – NOT Star Wars related. This command allows a repository, or a branch of a repository, to be copied. With this, the user can view the entire history of the repository. 
  
+Log – allows a user to view all the previous commits executed. It can be used to search for specific items. 
+ 
+
