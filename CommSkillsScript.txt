@@ -5,19 +5,13 @@ Status – GIT is capable of tracking and untracking elements in your files, you
 Add – the add command allows you to add a file to git that you want progress to be tracked in. This is done by typing “git add.”
  
 Remote - this is a repository separate from the main one, allowing the user to push or pull changes from and everyone can view it.
- 
 
+Commit – this command is considered a “save point”. A user can return to any point in the project to fix any bugs, or want to make changes.  
 
+Branch - this command allows a user to diverge from the original repository. A user can modify the code and make changes, without damaging the original. 
 
-Commit – this command is considered a “save point”. A user can return to any point in the project to fix any bugs, or want to make changes. 
- 
-Branch - this command allows a user to diverge from the original repository. A user can modify the code and make changes, without damaging the original.
- 
 Push - is a method of pushing the local repository content into a new remote repository.
  
-
-
-
 Checkout - it is a complex command which consists of two parts, switch and restore. Switch executes the command “select other branch or commit to have checked out”, and the restore operation executes the command “update some files in index and/or working tree.”
  
 Clone – NOT Star Wars related. This command allows a repository, or a branch of a repository, to be copied. With this, the user can view the entire history of the repository. 
