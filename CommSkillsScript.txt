@@ -16,3 +16,8 @@ Branch - this command allows a user to diverge from the original repository. A u
 Push - is a method of pushing the local repository content into a new remote repository.
  
 
+
+
+Checkout - it is a complex command which consists of two parts, switch and restore. Switch executes the command “select other branch or commit to have checked out”, and the restore operation executes the command “update some files in index and/or working tree.”
+ 
+
