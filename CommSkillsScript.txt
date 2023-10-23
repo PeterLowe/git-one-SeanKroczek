@@ -1,0 +1,16 @@
+Init – this “initialises” the project by creating a brand-new repository.
+ 
+Status – GIT is capable of tracking and untracking elements in your files, you can check this by typing “git status” in git-bash and the result shows what files are tracked/untracked. 
+ 
+Add – the add command allows you to add a file to git that you want progress to be tracked in. This is done by typing “git add.”
+ 
+Remote - this is a repository separate from the main one, allowing the user to push or pull changes from and everyone can view it.
+ 
+
+
+
+Commit – this command is considered a “save point”. A user can return to any point in the project to fix any bugs, or want to make changes. 
+ 
+Branch - this command allows a user to diverge from the original repository. A user can modify the code and make changes, without damaging the original.
+ 
+
