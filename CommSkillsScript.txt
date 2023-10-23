@@ -20,4 +20,5 @@ Push - is a method of pushing the local repository content into a new remote rep
 
 Checkout - it is a complex command which consists of two parts, switch and restore. Switch executes the command “select other branch or commit to have checked out”, and the restore operation executes the command “update some files in index and/or working tree.”
  
-
+Clone – NOT Star Wars related. This command allows a repository, or a branch of a repository, to be copied. With this, the user can view the entire history of the repository. 
+ 
